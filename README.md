@@ -40,4 +40,5 @@ How to install and run the application:
 3. ) Open the command line / terminal then run "npm install"
 4. ) Wait for the npm to finish.
 5. ) After finish run "npm run dev"
-6. ) You can click the "Find now" button to call the api
+6. ) You can see which port it will run i.e http://localhost:5173/
+7. ) You can click the "Find now" button to call the api
